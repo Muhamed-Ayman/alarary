@@ -1,0 +1,5 @@
+﻿  tryyyy.cpp
+C:\Users\20109\Downloads\CSC103\alarary\alarary\tryyyy.cpp(8,34): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\20109\Downloads\CSC103\alarary\alarary\tryyyy.cpp(8,34): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  alarary.vcxproj -> C:\Users\20109\Downloads\CSC103\alarary\x64\Debug\alarary.exe

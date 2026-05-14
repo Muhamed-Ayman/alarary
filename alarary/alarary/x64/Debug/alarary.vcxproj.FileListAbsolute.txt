@@ -1,0 +1,5 @@
+C:\Users\20109\Downloads\CSC103\alarary\alarary\x64\Debug\alarary.vcxproj.AssemblyReference.cache
+C:\Users\20109\Downloads\CSC103\alarary\alarary\x64\Debug\alarary.MyForm.resources
+C:\Users\20109\Downloads\CSC103\alarary\alarary\x64\Debug\alarary.vcxproj.GenerateResource.cache
+C:\Users\20109\Downloads\CSC103\alarary\alarary\x64\Debug\alarary.vcxproj.Up2Date
+C:\Users\20109\Downloads\CSC103\alarary\alarary\x64\Debug\alarary.tryyyy.resources
